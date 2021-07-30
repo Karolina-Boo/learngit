@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidlibrarytest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cardviewtest" />
+            <option value="$PROJECT_DIR$/costomizeviewtest" />
+            <option value="$PROJECT_DIR$/dicerollertest" />
+            <option value="$PROJECT_DIR$/fragmentbestpractice" />
+            <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/keyframe_anitest" />
+            <option value="$PROJECT_DIR$/keyframetest" />
+            <option value="$PROJECT_DIR$/kotlintest" />
+            <option value="$PROJECT_DIR$/layouttest" />
+            <option value="$PROJECT_DIR$/navigationtest" />
+            <option value="$PROJECT_DIR$/navigationtest2" />
+            <option value="$PROJECT_DIR$/recyclerviewtest" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/uilayouttest" />
+            <option value="$PROJECT_DIR$/uitest" />
+            <option value="$PROJECT_DIR$/viewpager" />
+            <option value="$PROJECT_DIR$/viewtest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
